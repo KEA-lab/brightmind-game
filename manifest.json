@@ -1,0 +1,12 @@
+{
+  "name": "BrightMind",
+  "short_name": "BrightMind",
+  "description": "Five playful activities for a brighter day",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF9ED",
+  "theme_color": "#FFF9ED",
+  "icons": [
+    { "src": "./icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
